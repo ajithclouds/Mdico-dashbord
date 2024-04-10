@@ -1,0 +1,18 @@
+h1,
+h2,
+h4,
+h4,
+h5,
+h6,
+p {
+  margin: 0px;
+  padding: 0px;
+}
+
+i {
+  font-size: 1.6rem;
+}
+
+.h-full {
+  height: 100vh;
+}
